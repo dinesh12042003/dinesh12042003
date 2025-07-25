@@ -1,5 +1,5 @@
 ## 👋 Hello there! I’m Dinesh Paridala<br><br>
-A passionate Backend Developer and AI/ML enthusiast with a knack for building impactful tech products, leading innovation-driven communities, and mentoring the next generation of talent.
+A passionate Fulll stack Developer and AI/ML enthusiast with a knack for building impactful tech products, leading innovation-driven communities, and mentoring the next generation of talent.
 
 
 ### 💻 Tech Stack:
